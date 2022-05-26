@@ -29,7 +29,7 @@ justify-content: center;
 text-align: center;
 }
 #countdown > div{
-    width: 100px;
+    width: 80px;
     padding: 30px 0;
     background-color: rgba(166, 199, 49, 0.5);
     margin: 10px;
